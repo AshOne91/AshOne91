@@ -1,3 +1,5 @@
+# 📄 [경력기술서 보기](https://drive.google.com/file/d/16YZqk3HrtW6VI-ZFKSUwEnPyyx7M81Ae/view?usp=sharing)
+
 # 2025.02.17기준 개발자 자격증 일정
 ## 데이터아키텍처 준전문가, 빅데이터 분석기사 (필기) 준비중
 | 시험명                      | 회차  | 접수 일정         | 응시 날짜    | 합격자 발표 |
@@ -19,6 +21,3 @@
 | 데이터분석 준전문가        | 47회  | 9.22~9.26        | 11.2(일)    | 11.28      |
 | SQL 개발자                 | 59회  | 10.13~10.17      | 11.16(일)   | 12.12      |
 | 빅데이터 분석기사 (실기)    | 11회  | 10.27~10.31      | 11.29(토)   | 12.19      |
-
-# 경력기술서
-<iframe src="https://drive.google.com/file/d/16YZqk3HrtW6VI-ZFKSUwEnPyyx7M81Ae/view?usp=sharing" width="100%" height="800px"></iframe>
