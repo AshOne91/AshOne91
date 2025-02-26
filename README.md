@@ -21,4 +21,4 @@
 | 빅데이터 분석기사 (실기)    | 11회  | 10.27~10.31      | 11.29(토)   | 12.19      |
 
 # 경력기술서
-<iframe src="https://raw.githubusercontent.com/AshOne91/CV/main/_%EA%B6%8C%EC%84%B1%ED%98%B8_%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C.pdf" width="100%" height="800px"></iframe>
+<iframe src="https://drive.google.com/file/d/16YZqk3HrtW6VI-ZFKSUwEnPyyx7M81Ae/preview" width="100%" height="800px"></iframe>
