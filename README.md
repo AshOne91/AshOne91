@@ -1,4 +1,4 @@
-# 📄 [경력기술서 보기](https://drive.google.com/file/d/16YZqk3HrtW6VI-ZFKSUwEnPyyx7M81Ae/view?usp=sharing)
+# 📄 [경력기술서 보기](https://drive.google.com/file/d/1NhkqkZpRfdC5sQ4BzugRK-QS9Xg8xsnT/view?usp=sharing)
 
 # 2025.02.17기준 개발자 자격증 일정
 ## 데이터아키텍처 준전문가, 빅데이터 분석기사 (필기) 준비중
