@@ -1,4 +1,5 @@
 # 📄 [경력기술서 보기](https://drive.google.com/file/d/1NhkqkZpRfdC5sQ4BzugRK-QS9Xg8xsnT/view?usp=sharing)
+# 💻 [개인블로그](https://velog.io/@ashenlord/posts)
 
 # 2025.02.17기준 개발자 자격증 일정
 ## 데이터아키텍처 준전문가, 빅데이터 분석기사 (필기) 준비중
